@@ -16,7 +16,7 @@ export default function Skills() {
                 <div
                   className="determinate blue"
                   style={{ width: '79%' }}
-                ></div>
+                 />
               </div>
             </div>
             <div className="col s6">
@@ -25,7 +25,7 @@ export default function Skills() {
                 <div
                   className="determinate blue"
                   style={{ width: '80%' }}
-                ></div>
+                 />
               </div>
             </div>
           </div>
@@ -56,7 +56,7 @@ export default function Skills() {
                 <div
                   className="determinate blue"
                   style={{ width: '89%' }}
-                ></div>
+                 />
               </div>
             </div>
             <div className="col s6">
@@ -65,7 +65,7 @@ export default function Skills() {
                 <div
                   className="determinate blue"
                   style={{ width: '97%' }}
-                ></div>
+                 />
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@ export default function Skills() {
                 <div
                   className="determinate blue"
                   style={{ width: '90%' }}
-                ></div>
+                 />
               </div>
             </div>
             <div className="col s6">
@@ -85,7 +85,7 @@ export default function Skills() {
                 <div
                   className="determinate blue"
                   style={{ width: '95%' }}
-                ></div>
+                 />
               </div>
             </div>
           </div>
@@ -96,7 +96,7 @@ export default function Skills() {
                 <div
                   className="determinate blue"
                   style={{ width: '90%' }}
-                ></div>
+                 />
               </div>
             </div>
           </div>

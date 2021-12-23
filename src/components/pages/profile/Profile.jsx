@@ -26,11 +26,11 @@ export default function Profile() {
 						<i className="material-icons right">close</i>
 					</span>
 					<p className="flex-container">
-						<a href="https://facebook.com/dezzhu.info" target="_blank" rel="noopener noreferrer">{" "}<i className="fab fa-facebook-f grey-text text-darken-4 social_style"></i></a>
-						<i className="fab fa-twitter grey-text text-darken-4 social_style"></i>
-						<a href="https://github.com/zhugez" target="_blank" rel="noopener noreferrer"><i className="fab fa-github grey-text text-dark"></i></a>
-						<a href="https://instagram.com/zyueyingz/" target="_blank" rel="noopener noreferrer">{" "}<i className="fab fa-instagram grey-text text-darken-4 social_style"></i>						</a>
-						<a href="https://pinterest.com/lyngocvuteakwondo" target="_blank" rel="noopener noreferrer">{" "}<i className="fab fa-pinterest-p grey-text text-darken-4 social_style"></i>						</a>
+						<a href="https://facebook.com/dezzhu.info" target="_blank" rel="noopener noreferrer">{" "}<i className="fab fa-facebook-f grey-text text-darken-4 social_style" /></a>
+						<i className="fab fa-twitter grey-text text-darken-4 social_style" />
+						<a href="https://github.com/zhugez" target="_blank" rel="noopener noreferrer"><i className="fab fa-github grey-text text-dark" /></a>
+						<a href="https://instagram.com/zyueyingz/" target="_blank" rel="noopener noreferrer">{" "}<i className="fab fa-instagram grey-text text-darken-4 social_style" />						</a>
+						<a href="https://pinterest.com/lyngocvuteakwondo" target="_blank" rel="noopener noreferrer">{" "}<i className="fab fa-pinterest-p grey-text text-darken-4 social_style" />						</a>
 					</p>
 				</div>
 			</div>
