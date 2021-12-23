@@ -17,27 +17,27 @@ export default class Navbar extends Component {
               <ul className="right hide-on-med-and-down">
                 <li>
                   <Link to="/#home">
-                    <i className="fas fa-home"></i> Home
+                    <i className="fas fa-home" /> Home
                   </Link>
                 </li>
                 <li>
                   <Link to="#skills">
-                    <i className="fas fa-copy"></i> Skills
+                    <i className="fas fa-copy" /> Skills
                   </Link>
                 </li>
                 <li>
                   <Link to="#experience">
-                    <i className="fas fa-id-badge"></i> Experience
+                    <i className="fas fa-id-badge" /> Experience
                   </Link>
                 </li>
                 <li>
                   <Link to="#educations">
-                    <i className="fas fa-graduation-cap"></i> Educations
+                    <i className="fas fa-graduation-cap" /> Educations
                   </Link>
                 </li>
                 <li>
                   <Link to="#achievements">
-                    <i className="fas fa-address-card"></i> Achievements
+                    <i className="fas fa-address-card" /> Achievements
                   </Link>
                 </li>
               </ul>
@@ -47,27 +47,27 @@ export default class Navbar extends Component {
         <ul className="sidenav" id="side-nav">
           <li>
             <Link to="/">
-              <i className="fas fa-home"></i> Home
+              <i className="fas fa-home" /> Home
             </Link>
           </li>
           <li>
             <Link to="#101">
-              <i className="fas fa-copy"></i> Skills
+              <i className="fas fa-copy" /> Skills
             </Link>
           </li>
           <li>
             <Link to="#102">
-              <i className="fas fa-id-badge"></i> Experiences
+              <i className="fas fa-id-badge" /> Experiences
             </Link>
           </li>
           <li>
             <Link to="#103">
-              <i className="fas fa-graduation-cap"></i> Educations
+              <i className="fas fa-graduation-cap" /> Educations
             </Link>
           </li>
           <li>
             <Link to="/portfolios">
-              <i className="fas fa-address-card"></i> Portfolios
+              <i className="fas fa-address-card" /> Portfolios
             </Link>
           </li>
         </ul>
