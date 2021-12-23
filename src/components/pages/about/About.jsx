@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export default function About() {
   return (
@@ -30,13 +30,22 @@ export default function About() {
             </div>
             <div className="col xl6 l6 m6 s12">
               <p>
-                <strong>Blog:</strong> - <a href=" https://ly-ngoc-vu.gitbook.io/home/"><i>ly-ngoc-vu.gitbook.io/home/</i></a>
+                <strong>Blog:</strong> -{" "}
+                <a href=" https://ly-ngoc-vu.gitbook.io/home/">
+                  <i>ly-ngoc-vu.gitbook.io/home/</i>
+                </a>
               </p>
               <p>
-                <strong>Interest:</strong> - Computer hacking, foreign language, music,books.
+                <strong>Interest:</strong> - Computer hacking, foreign language,
+                music,books.
               </p>
               <p>
-                <strong>Quotes: </strong> <blockquote> - Knowledge is like a fire, the more it is shared, the more it burns!</blockquote>
+                <strong>Quotes: </strong>{" "}
+                <blockquote>
+                  {" "}
+                  - Knowledge is like a fire, the more it is shared, the more it
+                  burns!
+                </blockquote>
               </p>
             </div>
           </div>
